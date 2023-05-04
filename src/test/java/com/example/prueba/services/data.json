@@ -1,0 +1,2335 @@
+[
+  {
+    "type": "video",
+    "uid": "00000187-e165-d444-abf7-e9778a9a0000",
+    "uri": "https://www.univision.com/noticias/en-un-minuto-los-detalles-de-la-captura-del-sospechoso-de-la-masacre-de-una-familia-hispana-en-texas-video",
+    "vertical": "Noticias",
+    "parent": {
+      "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+      "uri": "https://www.univision.com/noticias",
+      "name": "noticias univision",
+      "title": "Noticias Univision"
+    },
+    "title": "🕣 En un minuto",
+    "description": "En otras noticias, el gobierno planea enviar 1,500 militares a la frontera con México ante el previsto aumento del flujo de migrantes debido al fin del Título 42; Florida aprueba un duro proyecto de ley migratoria y un tiroteo en una escuela de Belgrado, Serbia, deja al menos ocho estudiantes y un guardia de seguridad muertos. Más información en <a href=\"https://www.univision.com/noticias\" target=\"_blank\" link-data=\"{&quot;cms.content.publishDate&quot;:1683113888347,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000017f-274d-d2e0-a77f-f74fa3320000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1683113888347,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000017f-274d-d2e0-a77f-f74fa3320000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;target&quot;:&quot;NEW&quot;,&quot;attributes&quot;:[],&quot;url&quot;:&quot;https://www.univision.com/noticias&quot;,&quot;_id&quot;:&quot;00000187-e167-d6c1-a9df-e1ffb8a80000&quot;,&quot;_type&quot;:&quot;ff658216-e70f-39d0-b660-bdfe57a5599a&quot;},&quot;linkText&quot;:&quot;UnivisionNoticias.com&quot;,&quot;_id&quot;:&quot;00000187-e167-d6c1-a9df-e1ffb8a40000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">UnivisionNoticias.com</a>. ",
+    "image": {
+      "type": "image",
+      "uid": "00000187-e165-d444-abf7-e9778ca80000",
+      "title": "e1538ebf29414c298710e2bc53ecf362",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/19/c7/122d1c4143a5a49f7b6f548a089b/e1538ebf29414c298710e2bc53ecf362",
+          "width": 605,
+          "height": 340
+        }
+      }
+    },
+    "authors": [
+      {
+        "fullName": "Max Seitz",
+        "image": {
+          "type": "image",
+          "uid": "00000180-28a7-dac6-a999-3df7017c0000",
+          "title": "Foto M Seitz.jpeg",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/41/ed/38baf1db40378c11eb9250e5efe2/foto-m-seitz.jpeg",
+              "width": 1430,
+              "height": 1600
+            }
+          }
+        },
+        "uri": "https://www.univision.com/temas/max-seitz",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "link": null,
+        "mediaCompany": null,
+        "designation": null,
+        "description": "Senior multimedia producer",
+        "address": null,
+        "phoneNumber": null,
+        "website": null
+      }
+    ],
+    "cardLabel": null,
+    "updateDate": "2023-05-03T07:49:00-04:00",
+    "publishDate": "2023-05-03T07:21:00-04:00",
+    "expirationDate": "2033-05-02T07:21:00-04:00",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/llz6104FJvn",
+          "isFeedDialog": false,
+          "title": "En un minuto: Los detalles de la captura del sospechoso de la masacre de una familia hispana en Texas",
+          "description": "En otras noticias, el gobierno planea enviar 1,500 militares a la frontera con México ante el previsto aumento del flujo de migrantes debido al fin del Título 42; Florida aprueba un duro proyecto de ley migratoria y un tiroteo en una escuela de Belgrado, Serbia, deja al menos ocho estudiantes y un guardia de seguridad muertos. Más información en UnivisionNoticias.com.",
+          "imageUrl": "https://st1.uvnimg.com/19/c7/122d1c4143a5a49f7b6f548a089b/e1538ebf29414c298710e2bc53ecf362",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/llz6104FJvn",
+          "title": "En un minuto: Los detalles de la captura del sospechoso de la masacre de una familia hispana en Texas",
+          "via": "UniNoticias"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/llz6104FJvn",
+          "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn un minuto: Los detalles de la captura del sospechoso de la masacre de una familia hispana en Texas\n\nEncuéntralo en este enlace:http://uni.vi/llz6104FJvn\n\nVisítanos https://www.univision.com"
+        },
+        "mail": {
+          "subject": "En un minuto: Los detalles de la captura del sospechoso de la masacre de una familia hispana en Texas",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn un minuto: Los detalles de la captura del sospechoso de la masacre de una familia hispana en Texas\n\nEncuéntralo en este enlace:http://uni.vi/llz6104FJvn\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      }
+    ],
+    "featuredTags": [
+      {
+        "type": "tagnode",
+        "uid": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+        "uri": "https://www.univision.com/temas/noticias-original-digital",
+        "vertical": null,
+        "parent": null,
+        "title": "Noticias Original Digital",
+        "description": "Noticias Original Digital",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2019-08-06T14:53:50-04:00",
+        "publishDate": "2019-08-06T14:53:37-04:00",
+        "expirationDate": null,
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "isFeedDialog": false,
+              "title": "Noticias Original Digital",
+              "description": "",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "title": "Noticias Original Digital",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Noticias Original Digital",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014b-a9eb-de67-a74f-b9fb7a770000",
+        "uri": "https://www.univision.com/temas/noticias",
+        "vertical": null,
+        "parent": null,
+        "title": "Noticias",
+        "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2021-02-23T14:27:20-05:00",
+        "publishDate": "2015-02-22T18:27:24-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/noticias",
+              "isFeedDialog": false,
+              "title": "Noticias",
+              "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/noticias",
+              "title": "Noticias",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/noticias",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Noticias",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "00000150-4d41-d9d9-ad54-5d75cc800000",
+        "uri": "https://www.univision.com/temas/tiroteos",
+        "vertical": null,
+        "parent": null,
+        "title": "Tiroteos",
+        "description": "Tiroteos",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2019-01-30T14:28:40-05:00",
+        "publishDate": "2015-10-09T11:39:47-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/tiroteos",
+              "isFeedDialog": false,
+              "title": "Tiroteos",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/tiroteos",
+              "title": "Tiroteos",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/tiroteos",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTiroteos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/tiroteos\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Tiroteos",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTiroteos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/tiroteos\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      }
+    ],
+    "disableReactions": true,
+    "contentPriority": "STANDARD",
+    "mcpid": "4407807",
+    "mcpOrigin": "US",
+    "duration": 75,
+    "durationString": "1:15",
+    "episodeNo": "0",
+    "authRequired": false,
+    "longform": false,
+    "longformPlayList": false,
+    "hasNextEpisode": false,
+    "source": "Univision",
+    "previewUrl": null,
+    "show": null,
+    "categories": [
+      "Noticias"
+    ],
+    "dateCreated": "2023-05-03T07:28:02-04:00",
+    "airDate": "2023-05-03T07:21:00-04:00",
+    "rating": "TV-PG",
+    "season": 2023,
+    "series": "650",
+    "seriesName": "Noticias Original Digital",
+    "registryEntries": [],
+    "headline": null,
+    "keywords": [
+      "noticiasoriginaldigital",
+      "Video",
+      "News",
+      "Noticias Univision",
+      "Univision",
+      "Noticias"
+    ],
+    "language": "es",
+    "accessRules": [
+      {
+        "name": "US/PTO.RICO",
+        "access": "private",
+        "match": "any",
+        "conditions": [
+          {
+            "scope": "country",
+            "value": "US",
+            "rangeStart": null,
+            "rangeEnd": null
+          },
+          {
+            "scope": "country",
+            "value": "PR",
+            "rangeStart": null,
+            "rangeEnd": null
+          }
+        ]
+      }
+    ],
+    "adConfig": {
+      "contextBased": "Deny",
+      "inVideo": "Allow",
+      "inStream": "Allow",
+      "hasPreRoll": "Allow",
+      "hasPostRoll": "Deny"
+    },
+    "transcriptLinks": [],
+    "snapshotLinks": [
+      "https://m110601-dcdn.mp.lura.live/iupl/23C/ED0/23CED06B3C2916EB2CEF8419DCD18B98.jpg?Expires=2082776400&KeyName=mcpkey1&Signature=1QadbwBK2fLy0p2PwQgrcAHAatY",
+      "https://gc01-univision.akamaized.net/MraJItvP9KWEW8nh/66615243/4407807/23CED06B3C2916EB2CEF8419DCD18B98_190x107.jpg"
+    ],
+    "copyrightYear": 2023,
+    "copyrightOwners": [
+      "© 2015 Univision Communications Inc."
+    ],
+    "supplier": "Univision",
+    "videoBitrate": 17243,
+    "network": "",
+    "networks": [],
+    "videoType": "clip",
+    "titleManagement": {
+      "tvShowSeason": "",
+      "tvShow": ""
+    },
+    "videoSubType": "",
+    "adContentType": "",
+    "advertiser": "",
+    "is360": false,
+    "primaryTopic": "",
+    "videoRecirc": true,
+    "tvssDomain": "usprauth.univision.com",
+    "thumbnailImage": "https://st1.uvnimg.com/dims4/default/25f94f1/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F19%2Fc7%2F122d1c4143a5a49f7b6f548a089b%2Fe1538ebf29414c298710e2bc53ecf362",
+    "shortUrl": "http://uni.vi/llz6104FJvn",
+    "permalink": "https://www.univision.com/noticias/en-un-minuto-los-detalles-de-la-captura-del-sospechoso-de-la-masacre-de-una-familia-hispana-en-texas-video",
+    "adSettings": {
+      "disable3rdPartyAds": false,
+      "disableAds": false,
+      "disableVideoAds": false,
+      "adTagValue": "video_noticias",
+      "targeting": {
+        "vertical": "noticias",
+        "tag": [
+          "noticiasoriginaldigital",
+          "noticias",
+          "tiroteos",
+          "crimenes",
+          "texas",
+          "estadosunidosdeamerica",
+          "inmigracion",
+          "titulo42",
+          "joebiden",
+          "fronteraeeuumexico",
+          "militares",
+          "florida",
+          "rondesantis",
+          "inmigrantesindocumentados",
+          "mundo",
+          "tiroteosmasivos"
+        ]
+      },
+      "contentSpecificSettings": {},
+      "disableTaboolaAds": false
+    },
+    "jwKey": "miqyMpcO",
+    "digitalType": null,
+    "playlist": null,
+    "videoFallback": {
+      "type": "video",
+      "uid": "00000187-dce1-d444-abf7-fcf34e510000",
+      "uri": "https://www.univision.com/noticias/en-camara-director-de-escuela-se-lleva-un-gran-susto-cuando-un-oso-sale-de-un-lugar-inesperado-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "En cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado",
+      "description": "Cámaras de seguridad captaron el momento en que el director de una escuela en Summersville, West Virginia, se sobresaltó ante la repentina aparición de un oso en un contenedor de basura que intentaba abrir. Él y el animal huyeron y nadie resultó herido. Sigue las últimas noticias en \n<a href=\"https://www.univision.com/noticias\" target=\"_blank\">Univision</a>.",
+      "image": {
+        "type": "image",
+        "uid": "00000187-dce1-d444-abf7-fcf350b40000",
+        "title": "1873557d877a4a1ca2b3d7dc4c3e384f",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/2f/cc/dd4cf86b4c63896ec154b14c5594/1873557d877a4a1ca2b3d7dc4c3e384f",
+            "width": 1213,
+            "height": 682
+          }
+        }
+      },
+      "authors": [],
+      "cardLabel": null,
+      "updateDate": "2023-05-02T10:42:02-04:00",
+      "publishDate": "2023-05-02T10:13:00-04:00",
+      "expirationDate": "2033-05-01T10:13:00-04:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/LHXZ104FC7y",
+            "isFeedDialog": false,
+            "title": "En cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado",
+            "description": "Cámaras de seguridad captaron el momento en que el director de una escuela en Summersville, West Virginia, se sobresaltó ante la repentina aparición de un oso en un contenedor de basura que intentaba abrir. Él y el animal huyeron y nadie resultó herido. Sigue las últimas noticias en Univision.",
+            "imageUrl": "https://st1.uvnimg.com/2f/cc/dd4cf86b4c63896ec154b14c5594/1873557d877a4a1ca2b3d7dc4c3e384f",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/LHXZ104FC7y",
+            "title": "En cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/LHXZ104FC7y",
+            "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado\n\nEncuéntralo en este enlace:http://uni.vi/LHXZ104FC7y\n\nVisítanos https://www.univision.com"
+          },
+          "mail": {
+            "subject": "En cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn cámara: director de escuela se lleva un gran susto cuando un oso sale de un lugar inesperado\n\nEncuéntralo en este enlace:http://uni.vi/LHXZ104FC7y\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "featuredTags": [
+        {
+          "type": "tagnode",
+          "uid": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+          "uri": "https://www.univision.com/temas/noticias-original-digital",
+          "vertical": null,
+          "parent": null,
+          "title": "Noticias Original Digital",
+          "description": "Noticias Original Digital",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2019-08-06T14:53:50-04:00",
+          "publishDate": "2019-08-06T14:53:37-04:00",
+          "expirationDate": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "isFeedDialog": false,
+                "title": "Noticias Original Digital",
+                "description": "",
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "title": "Noticias Original Digital",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Noticias Original Digital",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        },
+        {
+          "type": "tagnode",
+          "uid": "0000014b-a9eb-de67-a74f-b9fb7a770000",
+          "uri": "https://www.univision.com/temas/noticias",
+          "vertical": null,
+          "parent": null,
+          "title": "Noticias",
+          "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2021-02-23T14:27:20-05:00",
+          "publishDate": "2015-02-22T18:27:24-05:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/noticias",
+                "isFeedDialog": false,
+                "title": "Noticias",
+                "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/noticias",
+                "title": "Noticias",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/noticias",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Noticias",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        },
+        {
+          "type": "tagnode",
+          "uid": "00000171-707e-d2fe-a5f5-787e31c70000",
+          "uri": "https://www.univision.com/temas/estados-unidos-de-america",
+          "vertical": null,
+          "parent": null,
+          "title": "Estados Unidos de América",
+          "description": "Estados Unidos de América",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2020-04-12T18:24:40-04:00",
+          "publishDate": "2020-04-12T18:24:40-04:00",
+          "expirationDate": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/estados-unidos-de-america",
+                "isFeedDialog": false,
+                "title": "Estados Unidos de América",
+                "description": "",
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/estados-unidos-de-america",
+                "title": "Estados Unidos de América",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/estados-unidos-de-america",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstados Unidos de América\n\nEncuéntralo en este enlace:https://www.univision.com/temas/estados-unidos-de-america\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Estados Unidos de América",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstados Unidos de América\n\nEncuéntralo en este enlace:https://www.univision.com/temas/estados-unidos-de-america\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        }
+      ],
+      "disableReactions": true,
+      "contentPriority": "STANDARD",
+      "mcpid": "4407313",
+      "mcpOrigin": "US",
+      "duration": 55,
+      "durationString": "0:55",
+      "episodeNo": "0",
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "categories": [
+        "Noticias"
+      ],
+      "dateCreated": "2023-05-02T10:14:16-04:00",
+      "airDate": "2023-05-02T10:13:00-04:00",
+      "rating": "TV-PG",
+      "season": 2023,
+      "series": "650",
+      "seriesName": "Noticias Original Digital",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "noticiasoriginaldigital",
+        "Video",
+        "News",
+        "Noticias Univision",
+        "Univision",
+        "Noticias"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [],
+      "snapshotLinks": [
+        "https://m110601-dcdn.mp.lura.live/iupl/EEA/324/EEA3243A7E02152F03F0AF80D217CC81.jpg?Expires=2082776400&KeyName=mcpkey1&Signature=9Iw3o7UwNo95z2ZHLNPWyK9FnrQ",
+        "https://gc01-univision.akamaized.net/MraJItvP9KWEW8nh/66615243/4407313/EEA3243A7E02152F03F0AF80D217CC81_190x107.jpg"
+      ],
+      "copyrightYear": 2023,
+      "copyrightOwners": [
+        "© 2015 Univision Communications Inc."
+      ],
+      "supplier": "Univision",
+      "videoBitrate": 13330,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/7e24c6a/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F2f%2Fcc%2Fdd4cf86b4c63896ec154b14c5594%2F1873557d877a4a1ca2b3d7dc4c3e384f",
+      "shortUrl": "http://uni.vi/LHXZ104FC7y",
+      "permalink": "https://www.univision.com/noticias/en-camara-director-de-escuela-se-lleva-un-gran-susto-cuando-un-oso-sale-de-un-lugar-inesperado-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias",
+            "estadosunidosdeamerica",
+            "animales",
+            "escuelaspublicas",
+            "casosinsolitos"
+          ]
+        },
+        "contentSpecificSettings": {},
+        "disableTaboolaAds": false
+      },
+      "jwKey": "qJXyCad8",
+      "digitalType": null,
+      "playlist": null,
+      "videoFallback": null,
+      "showUpdateDate": true
+    },
+    "showUpdateDate": true,
+    "primaryTag": {
+      "name": "Noticias Univision",
+      "link": "https://www.univision.com/noticias"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "type": "video",
+    "uid": "00000187-df1c-d444-abf7-ff5f6e9b0000",
+    "uri": "https://www.univision.com/noticias/exclusiva-univision-el-video-del-momento-en-que-capturan-a-francisco-oropesa-el-sospecho-de-la-masacre-de-cleveland-video",
+    "vertical": "Noticias",
+    "parent": {
+      "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+      "uri": "https://www.univision.com/noticias",
+      "name": "noticias univision",
+      "title": "Noticias Univision"
+    },
+    "title": "Capturan a Francisco Oropesa",
+    "description": "Univision obtuvo en exclusiva videos del momento en que es detenido el sospechoso de haber matado a cinco de sus vecinos, incluido un menor, el pasado viernes en Texas. <a href=\"https://www.univision.com/noticias/masacre-cleveland-texas-captura-francisco-oropesa-sospecho-asesinato\" target=\"_blank\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000147-f3a5-d4ea-a95f-fbb7f52b0000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1683116393145,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000014e-0784-d610-a1ef-3fc64af00011&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1683116393145,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000014e-0784-d610-a1ef-3fc64af00011&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;target&quot;:&quot;NEW&quot;,&quot;attributes&quot;:[],&quot;url&quot;:&quot;https://www.univision.com/noticias/masacre-cleveland-texas-captura-francisco-oropesa-sospecho-asesinato&quot;,&quot;_id&quot;:&quot;00000187-e18d-d6c6-adc7-ed8defeb0000&quot;,&quot;_type&quot;:&quot;ff658216-e70f-39d0-b660-bdfe57a5599a&quot;},&quot;linkText&quot;:&quot;Más detalles sobre la captura aquí. &quot;,&quot;_id&quot;:&quot;00000187-e18d-d6c6-adc7-ed8defe70000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">Más detalles sobre la captura aquí.  </a>",
+    "image": {
+      "type": "image",
+      "uid": "00000187-df65-d444-abf7-ff7778980000",
+      "title": "a810d609003341cf95f8e049c3bf0b13",
+      "caption": null,
+      "credit": null,
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/ae/a6/8b2b13cb47658c7b45c2d369341b/a810d609003341cf95f8e049c3bf0b13",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2023-05-03T08:19:55-04:00",
+    "publishDate": "2023-05-02T20:46:00-04:00",
+    "expirationDate": "2033-05-01T20:46:00-04:00",
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/wjpW104FHtq",
+          "isFeedDialog": false,
+          "title": "Exclusiva Univision: El video del momento en que capturan a Francisco Oropesa, el sospechoso de la masacre de Cleveland",
+          "description": "Univision obtuvo en exclusiva videos del momento en que es detenido el sospechoso de haber matado a cinco de sus vecinos, incluido un menor, el pasado viernes en Texas. Más detalles sobre la captura aquí.",
+          "imageUrl": "https://st1.uvnimg.com/ae/a6/8b2b13cb47658c7b45c2d369341b/a810d609003341cf95f8e049c3bf0b13",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/wjpW104FHtq",
+          "title": "Exclusiva Univision: El video del momento en que capturan a Francisco Oropesa, el sospechoso de la masacre de Cleveland",
+          "via": "UniNoticias"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/wjpW104FHtq",
+          "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nExclusiva Univision: El video del momento en que capturan a Francisco Oropesa, el sospechoso de la masacre de Cleveland\n\nEncuéntralo en este enlace:http://uni.vi/wjpW104FHtq\n\nVisítanos https://www.univision.com"
+        },
+        "mail": {
+          "subject": "Exclusiva Univision: El video del momento en que capturan a Francisco Oropesa, el sospechoso de la masacre de Cleveland",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nExclusiva Univision: El video del momento en que capturan a Francisco Oropesa, el sospechoso de la masacre de Cleveland\n\nEncuéntralo en este enlace:http://uni.vi/wjpW104FHtq\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      }
+    ],
+    "featuredTags": [
+      {
+        "type": "tagnode",
+        "uid": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+        "uri": "https://www.univision.com/temas/noticias-original-digital",
+        "vertical": null,
+        "parent": null,
+        "title": "Noticias Original Digital",
+        "description": "Noticias Original Digital",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2019-08-06T14:53:50-04:00",
+        "publishDate": "2019-08-06T14:53:37-04:00",
+        "expirationDate": null,
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "isFeedDialog": false,
+              "title": "Noticias Original Digital",
+              "description": "",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "title": "Noticias Original Digital",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/noticias-original-digital",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Noticias Original Digital",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014b-a9eb-de67-a74f-b9fb7a770000",
+        "uri": "https://www.univision.com/temas/noticias",
+        "vertical": null,
+        "parent": null,
+        "title": "Noticias",
+        "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2021-02-23T14:27:20-05:00",
+        "publishDate": "2015-02-22T18:27:24-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/noticias",
+              "isFeedDialog": false,
+              "title": "Noticias",
+              "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/noticias",
+              "title": "Noticias",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/noticias",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Noticias",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      }
+    ],
+    "disableReactions": true,
+    "contentPriority": "STANDARD",
+    "mcpid": "4407655",
+    "mcpOrigin": "US",
+    "duration": 53,
+    "durationString": "0:53",
+    "episodeNo": "0",
+    "authRequired": false,
+    "longform": false,
+    "longformPlayList": false,
+    "hasNextEpisode": false,
+    "source": "Univision",
+    "previewUrl": null,
+    "show": null,
+    "categories": [
+      "Noticias"
+    ],
+    "dateCreated": "2023-05-02T20:50:54-04:00",
+    "airDate": "2023-05-02T20:46:00-04:00",
+    "rating": "TV-PG",
+    "season": 2023,
+    "series": "650",
+    "seriesName": "Noticias Original Digital",
+    "registryEntries": [],
+    "headline": null,
+    "keywords": [
+      "noticiasoriginaldigital",
+      "Video",
+      "News",
+      "Noticias Univision",
+      "Univision",
+      "Noticias"
+    ],
+    "language": "es",
+    "accessRules": [
+      {
+        "name": "US/PTO.RICO",
+        "access": "private",
+        "match": "any",
+        "conditions": [
+          {
+            "scope": "country",
+            "value": "US",
+            "rangeStart": null,
+            "rangeEnd": null
+          },
+          {
+            "scope": "country",
+            "value": "PR",
+            "rangeStart": null,
+            "rangeEnd": null
+          }
+        ]
+      }
+    ],
+    "adConfig": {
+      "contextBased": "Deny",
+      "inVideo": "Allow",
+      "inStream": "Allow",
+      "hasPreRoll": "Allow",
+      "hasPostRoll": "Deny"
+    },
+    "transcriptLinks": [],
+    "snapshotLinks": [
+      "https://m110601-dcdn.mp.lura.live/univision/vupl/A77/83B/A7783BEECCEDECD7F876C472542238EF-0-1683079455564.jpg?Expires=2082776400&KeyName=mcpkey1&Signature=z8FsWVFA75JrvGW0kiMdWY8jliA",
+      "https://gc01-univision.akamaized.net/MraJItvP9KWEW8nh/66615243/4407655/FB5A2F4054AC2F6C81E977793BF3498B_8_190x107.jpg"
+    ],
+    "copyrightYear": 2023,
+    "copyrightOwners": [
+      "© 2015 Univision Communications Inc."
+    ],
+    "supplier": "Univision",
+    "videoBitrate": 7940,
+    "network": "",
+    "networks": [],
+    "videoType": "clip",
+    "titleManagement": {
+      "tvShowSeason": "",
+      "tvShow": ""
+    },
+    "videoSubType": "",
+    "adContentType": "",
+    "advertiser": "",
+    "is360": false,
+    "primaryTopic": "",
+    "videoRecirc": true,
+    "tvssDomain": "usprauth.univision.com",
+    "thumbnailImage": "https://st1.uvnimg.com/dims4/default/e3f0a20/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fae%2Fa6%2F8b2b13cb47658c7b45c2d369341b%2Fa810d609003341cf95f8e049c3bf0b13",
+    "shortUrl": "http://uni.vi/wjpW104FHtq",
+    "permalink": "https://www.univision.com/noticias/exclusiva-univision-el-video-del-momento-en-que-capturan-a-francisco-oropesa-el-sospecho-de-la-masacre-de-cleveland-video",
+    "adSettings": {
+      "disable3rdPartyAds": false,
+      "disableAds": false,
+      "disableVideoAds": false,
+      "adTagValue": "video_noticias",
+      "targeting": {
+        "vertical": "noticias",
+        "tag": [
+          "noticiasoriginaldigital",
+          "noticias"
+        ]
+      },
+      "contentSpecificSettings": {},
+      "disableTaboolaAds": false
+    },
+    "jwKey": "lkcRjA0Y",
+    "digitalType": null,
+    "playlist": null,
+    "videoFallback": {
+      "type": "video",
+      "uid": "00000187-dc4e-d444-abf7-fc5faaaf0000",
+      "uri": "https://www.univision.com/noticias/en-un-minuto-intensa-busqueda-del-sospechoso-de-la-masacre-de-una-familia-hispana-en-texas-video",
+      "vertical": "Noticias",
+      "parent": {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      "title": "En un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas",
+      "description": "En otras noticias, un choque múltiple provocado por una tormenta de polvo deja al menos seis muertos y decenas de heridos en Illinois; Joe Biden invita a los líderes políticos del Congreso a una reunión en la Casa Blanca para tratar de evitar que el gobierno se quede sin dinero y la policía en Oklahoma halla siete cadáveres al buscar a dos adolescentes desaparecidas. Más información en \n<a href=\"https://www.univision.com/noticias\" target=\"_blank\">UnivisionNoticias.com</a>.",
+      "image": {
+        "type": "image",
+        "uid": "00000187-dc4e-d444-abf7-fc5faed30000",
+        "title": "59db8ce8a09a427dab8843612cf14d76",
+        "caption": null,
+        "credit": null,
+        "renditions": {
+          "original": {
+            "href": "https://st1.uvnimg.com/5b/d9/5e36f8e24b128a3f9f02e626676a/59db8ce8a09a427dab8843612cf14d76",
+            "width": 1602,
+            "height": 901
+          }
+        }
+      },
+      "authors": [
+        {
+          "fullName": "Max Seitz",
+          "image": {
+            "type": "image",
+            "uid": "00000180-28a7-dac6-a999-3df7017c0000",
+            "title": "Foto M Seitz.jpeg",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/41/ed/38baf1db40378c11eb9250e5efe2/foto-m-seitz.jpeg",
+                "width": 1430,
+                "height": 1600
+              }
+            }
+          },
+          "uri": "https://www.univision.com/temas/max-seitz",
+          "socialNetworks": {
+            "facebookUrl": null,
+            "googleUrl": null,
+            "instagramUrl": null,
+            "linkedinUrl": null,
+            "pinterestUrl": null,
+            "snapchatUrl": null,
+            "twitterUrl": null,
+            "youTubeUrl": null
+          },
+          "link": null,
+          "mediaCompany": null,
+          "designation": null,
+          "description": "Senior multimedia producer",
+          "address": null,
+          "phoneNumber": null,
+          "website": null
+        }
+      ],
+      "cardLabel": null,
+      "updateDate": "2023-05-02T08:01:22-04:00",
+      "publishDate": "2023-05-02T07:42:00-04:00",
+      "expirationDate": "2033-05-01T07:42:00-04:00",
+      "sharing": {
+        "options": {
+          "facebook": {
+            "url": "http://uni.vi/Rqjk104FBlx",
+            "isFeedDialog": false,
+            "title": "En un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas",
+            "description": "En otras noticias, un choque múltiple provocado por una tormenta de polvo deja al menos seis muertos y decenas de heridos en Illinois; Joe Biden invita a los líderes políticos del Congreso a una reunión en la Casa Blanca para tratar de evitar que el gobierno se quede sin dinero y la policía en Oklahoma halla siete cadáveres al buscar a dos adolescentes desaparecidas. Más información en UnivisionNoticias.com.",
+            "imageUrl": "https://st1.uvnimg.com/5b/d9/5e36f8e24b128a3f9f02e626676a/59db8ce8a09a427dab8843612cf14d76",
+            "appId": "1007833782615811"
+          },
+          "twitter": {
+            "url": "http://uni.vi/Rqjk104FBlx",
+            "title": "En un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas",
+            "via": "UniNoticias"
+          },
+          "whatsapp": {
+            "url": "http://uni.vi/Rqjk104FBlx",
+            "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas\n\nEncuéntralo en este enlace:http://uni.vi/Rqjk104FBlx\n\nVisítanos https://www.univision.com"
+          },
+          "mail": {
+            "subject": "En un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas",
+            "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEn un minuto: Intensa búsqueda del sospechoso de la masacre de una familia hispana en Texas\n\nEncuéntralo en este enlace:http://uni.vi/Rqjk104FBlx\n\nVisítanos https://www.univision.com"
+          }
+        }
+      },
+      "hierarchy": [
+        {
+          "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+          "uri": "https://www.univision.com/noticias",
+          "name": "noticias univision",
+          "title": "Noticias Univision"
+        }
+      ],
+      "featuredTags": [
+        {
+          "type": "tagnode",
+          "uid": "0000016c-6847-d3bb-a17c-ecf7291e0000",
+          "uri": "https://www.univision.com/temas/noticias-original-digital",
+          "vertical": null,
+          "parent": null,
+          "title": "Noticias Original Digital",
+          "description": "Noticias Original Digital",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2019-08-06T14:53:50-04:00",
+          "publishDate": "2019-08-06T14:53:37-04:00",
+          "expirationDate": null,
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "isFeedDialog": false,
+                "title": "Noticias Original Digital",
+                "description": "",
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "title": "Noticias Original Digital",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/noticias-original-digital",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Noticias Original Digital",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias Original Digital\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias-original-digital\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        },
+        {
+          "type": "tagnode",
+          "uid": "0000014b-a9eb-de67-a74f-b9fb7a770000",
+          "uri": "https://www.univision.com/temas/noticias",
+          "vertical": null,
+          "parent": null,
+          "title": "Noticias",
+          "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2021-02-23T14:27:20-05:00",
+          "publishDate": "2015-02-22T18:27:24-05:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/noticias",
+                "isFeedDialog": false,
+                "title": "Noticias",
+                "description": "Últimas noticias sobre la política en Estados Unidos. Conoce la última información sobre inmigración, el coronavirus, videos, fotos y temas relacionados con las noticias de Estados Unidos.",
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/noticias",
+                "title": "Noticias",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/noticias",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Noticias",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nNoticias\n\nEncuéntralo en este enlace:https://www.univision.com/temas/noticias\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        },
+        {
+          "type": "tagnode",
+          "uid": "00000150-4d41-d9d9-ad54-5d75cc800000",
+          "uri": "https://www.univision.com/temas/tiroteos",
+          "vertical": null,
+          "parent": null,
+          "title": "Tiroteos",
+          "description": "Tiroteos",
+          "image": {
+            "type": "image",
+            "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+            "title": "Univision Fallback Image",
+            "caption": null,
+            "credit": null,
+            "renditions": {
+              "original": {
+                "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "width": 1200,
+                "height": 630
+              }
+            }
+          },
+          "authors": [],
+          "cardLabel": null,
+          "updateDate": "2019-01-30T14:28:40-05:00",
+          "publishDate": "2015-10-09T11:39:47-04:00",
+          "expirationDate": "3000-01-01T00:00:00-05:00",
+          "sharing": {
+            "options": {
+              "facebook": {
+                "url": "https://www.univision.com/temas/tiroteos",
+                "isFeedDialog": false,
+                "title": "Tiroteos",
+                "description": null,
+                "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+                "appId": "1007833782615811"
+              },
+              "twitter": {
+                "url": "https://www.univision.com/temas/tiroteos",
+                "title": "Tiroteos",
+                "via": "Univision"
+              },
+              "whatsapp": {
+                "url": "https://www.univision.com/temas/tiroteos",
+                "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTiroteos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/tiroteos\n\nVisítanos https://www.univision.com"
+              },
+              "mail": {
+                "subject": "Tiroteos",
+                "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTiroteos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/tiroteos\n\nVisítanos https://www.univision.com"
+              }
+            }
+          },
+          "hierarchy": [],
+          "featuredTags": [],
+          "disableReactions": false
+        }
+      ],
+      "disableReactions": true,
+      "contentPriority": "STANDARD",
+      "mcpid": "4407291",
+      "mcpOrigin": "US",
+      "duration": 75,
+      "durationString": "1:15",
+      "episodeNo": "0",
+      "authRequired": false,
+      "longform": false,
+      "longformPlayList": false,
+      "hasNextEpisode": false,
+      "source": "Univision",
+      "previewUrl": null,
+      "show": null,
+      "categories": [
+        "Noticias"
+      ],
+      "dateCreated": "2023-05-02T07:47:21-04:00",
+      "airDate": "2023-05-02T07:42:00-04:00",
+      "rating": "TV-PG",
+      "season": 2023,
+      "series": "650",
+      "seriesName": "Noticias Original Digital",
+      "registryEntries": [],
+      "headline": null,
+      "keywords": [
+        "noticiasoriginaldigital",
+        "Video",
+        "News",
+        "Noticias Univision",
+        "Univision",
+        "Noticias"
+      ],
+      "language": "es",
+      "accessRules": [
+        {
+          "name": "US/PTO.RICO",
+          "access": "private",
+          "match": "any",
+          "conditions": [
+            {
+              "scope": "country",
+              "value": "US",
+              "rangeStart": null,
+              "rangeEnd": null
+            },
+            {
+              "scope": "country",
+              "value": "PR",
+              "rangeStart": null,
+              "rangeEnd": null
+            }
+          ]
+        }
+      ],
+      "adConfig": {
+        "contextBased": "Deny",
+        "inVideo": "Allow",
+        "inStream": "Allow",
+        "hasPreRoll": "Allow",
+        "hasPostRoll": "Deny"
+      },
+      "transcriptLinks": [],
+      "snapshotLinks": [
+        "https://m110601-dcdn.mp.lura.live/iupl/D85/B1B/D85B1B27F87DE5230630499DF49382FE.jpg?Expires=2082776400&KeyName=mcpkey1&Signature=guGlznBwH5G6_3MCcGv57GmFrjk",
+        "https://gc01-univision.akamaized.net/MraJItvP9KWEW8nh/66615243/4407291/D85B1B27F87DE5230630499DF49382FE_190x107.jpg"
+      ],
+      "copyrightYear": 2023,
+      "copyrightOwners": [
+        "© 2015 Univision Communications Inc."
+      ],
+      "supplier": "Univision",
+      "videoBitrate": 17160,
+      "network": "",
+      "networks": [],
+      "videoType": "clip",
+      "titleManagement": {
+        "tvShowSeason": "",
+        "tvShow": ""
+      },
+      "videoSubType": "",
+      "adContentType": "",
+      "advertiser": "",
+      "is360": false,
+      "primaryTopic": "",
+      "videoRecirc": true,
+      "tvssDomain": "usprauth.univision.com",
+      "thumbnailImage": "https://st1.uvnimg.com/dims4/default/d26baff/2147483647/thumbnail/480x270/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F5b%2Fd9%2F5e36f8e24b128a3f9f02e626676a%2F59db8ce8a09a427dab8843612cf14d76",
+      "shortUrl": "http://uni.vi/Rqjk104FBlx",
+      "permalink": "https://www.univision.com/noticias/en-un-minuto-intensa-busqueda-del-sospechoso-de-la-masacre-de-una-familia-hispana-en-texas-video",
+      "adSettings": {
+        "disable3rdPartyAds": false,
+        "disableAds": false,
+        "disableVideoAds": false,
+        "adTagValue": "video_noticias",
+        "targeting": {
+          "vertical": "noticias",
+          "tag": [
+            "noticiasoriginaldigital",
+            "noticias",
+            "tiroteos",
+            "texas",
+            "estadosunidosdeamerica",
+            "armas",
+            "violencia",
+            "tormentasseveras",
+            "accidentes",
+            "illinois",
+            "muertes",
+            "politica",
+            "techodeladeudadeeeuu",
+            "joebiden",
+            "congresodeestadosunidos",
+            "economia",
+            "crimenes",
+            "desapariciones",
+            "abusosexual",
+            "oklahoma"
+          ]
+        },
+        "contentSpecificSettings": {},
+        "disableTaboolaAds": false
+      },
+      "jwKey": "KsrK9YP6",
+      "digitalType": null,
+      "playlist": null,
+      "videoFallback": null,
+      "showUpdateDate": true
+    },
+    "showUpdateDate": true,
+    "primaryTag": {
+      "name": "Noticias Univision",
+      "link": "https://www.univision.com/noticias"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "type": "article",
+    "uid": "00000187-df17-d6c6-adc7-ff1785d80002",
+    "uri": "https://www.univision.com/famosos/pablo-lyle-deportado-enfrentaria-juicio-corte-inmigracion",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uuid": "00000166-4216-dd50-a166-e73f34130000",
+      "uri": "https://www.univision.com/famosos",
+      "name": "famosos",
+      "title": "Famosos"
+    },
+    "title": "Pablo Lyle posible deportación",
+    "description": "A mediados de abril, la corte estatal de Florida emitió una &quot;orden&quot; para pedir a los implicados en el caso que cooperen con el departamento de inmigración, pues Pablo Lyle podría enfrentar un juicio debido a su estatus migratorio. <br/>",
+    "image": {
+      "type": "image",
+      "uid": "00000187-df2c-d6c6-adc7-ff2d96a60000",
+      "title": "Pablo Lyle podría ser deportado",
+      "caption": "Pablo Lyle",
+      "credit": "The Grosby Group, El Gordo y La Flaca",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/27/f3/7d69ea6b4287be7c818430cd2dbb/pablo-lyle.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      }
+    },
+    "authors": [
+      {
+        "fullName": "Ashbya Meré",
+        "image": {
+          "type": "image",
+          "uid": "00000174-4c8d-d5f1-a1fd-5f9fe1710000",
+          "title": "BodyTune_1599012728817.png",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3f/50/602e0bb74b37a2b60ffc23be790d/bodytune-1599012728817.png",
+              "width": 1069,
+              "height": 1076
+            }
+          }
+        },
+        "uri": "https://www.univision.com/temas/ashbya-mere",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "link": null,
+        "mediaCompany": null,
+        "designation": null,
+        "description": "Editora digital<br/>",
+        "address": null,
+        "phoneNumber": null,
+        "website": null
+      }
+    ],
+    "cardLabel": null,
+    "updateDate": "2023-05-02T21:16:12-04:00",
+    "publishDate": "2023-05-02T21:16:12-04:00",
+    "expirationDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/v7y1104FHz5",
+          "isFeedDialog": false,
+          "title": "Pablo Lyle podría ser deportado: enfrentaría un juicio en la corte de inmigración",
+          "description": "A mediados de abril, la corte estatal de Florida emitió una \"orden\" para pedir a los implicados en el caso que cooperen con el departamento de inmigración, pues Pablo Lyle podría enfrentar un juicio debido a su estatus migratorio.",
+          "imageUrl": "https://st1.uvnimg.com/27/f3/7d69ea6b4287be7c818430cd2dbb/pablo-lyle.jpg",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/v7y1104FHz5",
+          "title": "Pablo Lyle podría ser deportado: enfrentaría un juicio en la corte de inmigración",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/v7y1104FHz5",
+          "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPablo Lyle podría ser deportado: enfrentaría un juicio en la corte de inmigración\n\nEncuéntralo en este enlace:http://uni.vi/v7y1104FHz5\n\nVisítanos https://www.univision.com"
+        },
+        "mail": {
+          "subject": "Pablo Lyle podría ser deportado: enfrentaría un juicio en la corte de inmigración",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPablo Lyle podría ser deportado: enfrentaría un juicio en la corte de inmigración\n\nEncuéntralo en este enlace:http://uni.vi/v7y1104FHz5\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "00000166-4216-dd50-a166-e73f34130000",
+        "uri": "https://www.univision.com/famosos",
+        "name": "famosos",
+        "title": "Famosos"
+      }
+    ],
+    "featuredTags": [
+      {
+        "type": "person",
+        "uid": "0000014e-f97e-dca7-a1ee-f9fe99890000",
+        "uri": "https://www.univision.com/temas/pablo-lyle",
+        "vertical": null,
+        "parent": null,
+        "title": "Pablo Lyle",
+        "description": "Pablo Lyle",
+        "image": {
+          "type": "image",
+          "uid": "0000014d-1fd9-da5e-aded-1fdb83640000",
+          "title": "Pablo Lyle",
+          "caption": "Pablo Lyle",
+          "credit": "Televisa",
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/b3/fb/be6ae2a643ccb639d6a57a8e2070/cb5719276985461eb25552ff57be723d",
+              "width": 590,
+              "height": 395
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2015-08-04T12:16:17-04:00",
+        "publishDate": "2015-08-04T12:16:17-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "http://uni.vi/Elbu1015h5J",
+              "isFeedDialog": false,
+              "title": "Pablo Lyle",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/b3/fb/be6ae2a643ccb639d6a57a8e2070/cb5719276985461eb25552ff57be723d",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "http://uni.vi/Elbu1015h5J",
+              "title": "Pablo Lyle",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "http://uni.vi/Elbu1015h5J",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPablo Lyle\n\nEncuéntralo en este enlace:http://uni.vi/Elbu1015h5J\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Pablo Lyle",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nPablo Lyle\n\nEncuéntralo en este enlace:http://uni.vi/Elbu1015h5J\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false,
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "role": null,
+        "fullBio": []
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014c-7603-db7a-af7e-7793877e0000",
+        "uri": "https://www.univision.com/temas/inmigracion",
+        "vertical": null,
+        "parent": null,
+        "title": "Inmigración",
+        "description": "Inmigración: Últimas noticias sobre Inmigración. Conoce la última información sobre TPS, DACA, asilo y todas las noticias relacionadas con Inmigración. Videos, fotos y temas relacionados con Inmigración.",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2021-02-23T15:45:06-05:00",
+        "publishDate": "2015-04-01T13:25:10-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/inmigracion",
+              "isFeedDialog": false,
+              "title": "Inmigración",
+              "description": "Inmigración: Últimas noticias sobre Inmigración. Conoce la última información sobre TPS, DACA, asilo y todas las noticias relacionadas con Inmigración. Videos, fotos y temas relacionados con Inmigración.",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/inmigracion",
+              "title": "Inmigración",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/inmigracion",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nInmigración\n\nEncuéntralo en este enlace:https://www.univision.com/temas/inmigracion\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Inmigración",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nInmigración\n\nEncuéntralo en este enlace:https://www.univision.com/temas/inmigracion\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "00000153-be5a-d175-a37b-bfdacf700000",
+        "uri": "https://www.univision.com/temas/florida",
+        "vertical": null,
+        "parent": null,
+        "title": "Florida",
+        "description": "Florida: Últimas noticias sobre Florida. Conoce la última información sobre Florida, videos, fotos y temas relacionados con Florida.",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2021-02-23T20:36:29-05:00",
+        "publishDate": "2016-03-28T13:52:23-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/florida",
+              "isFeedDialog": false,
+              "title": "Florida",
+              "description": "Florida: Últimas noticias sobre Florida. Conoce la última información sobre Florida, videos, fotos y temas relacionados con Florida.",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/florida",
+              "title": "Florida",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/florida",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFlorida\n\nEncuéntralo en este enlace:https://www.univision.com/temas/florida\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Florida",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nFlorida\n\nEncuéntralo en este enlace:https://www.univision.com/temas/florida\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "leadType": "video",
+    "showUpdateDate": true,
+    "readTime": 3,
+    "articleType": "Standard",
+    "body": [],
+    "jwRecommendationChannel": "78MDrZDv",
+    "dynamicPlaylist": false,
+    "sponsor": null,
+    "useWebviewInApps": false,
+    "relatedCollection": null,
+    "primaryTag": {
+      "name": "Famosos",
+      "link": "https://www.univision.com/famosos"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "type": "article",
+    "uid": "00000187-df6d-d6c1-a9df-ffff140f0002",
+    "uri": "https://www.univision.com/famosos/karina-hijo-trans-xander-advierte-defendera-criticas",
+    "vertical": "Entretenimiento",
+    "parent": {
+      "uuid": "00000166-4216-dd50-a166-e73f34130000",
+      "uri": "https://www.univision.com/famosos",
+      "name": "famosos",
+      "title": "Famosos"
+    },
+    "title": "Karina e hijo transgénero",
+    "description": "La cantante peruana se dijo contenta por la felicidad de su hijo Xander, quien a sus 17 años ya terminó el proceso de reasignación de sexo. Karina advirtió que lo defenderá a &quot;capa y espada&quot;.<br/><br/>Pero antes de que sigas, te invitamos a <a href=\"https://www.vix.com/es-es/ondemand/novelas?utm_medium=internal_referral&amp;utm_source=univision&amp;utm_campaign=evergreen&amp;utm_content=ed_entertainment&amp;utm_term=article\" target=\"_blank\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000147-f3a5-d4ea-a95f-fbb7f52b0000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1683081008386,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;00000153-2fa1-dc48-a77f-6ff58f9e0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1683081008386,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;00000153-2fa1-dc48-a77f-6ff58f9e0000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;target&quot;:&quot;NEW&quot;,&quot;attributes&quot;:[],&quot;url&quot;:&quot;https://www.vix.com/es-es/ondemand/novelas?utm_medium=internal_referral&amp;utm_source=univision&amp;utm_campaign=evergreen&amp;utm_content=ed_entertainment&amp;utm_term=article&quot;,&quot;_id&quot;:&quot;00000187-df71-d6c1-a9df-fffff3780000&quot;,&quot;_type&quot;:&quot;ff658216-e70f-39d0-b660-bdfe57a5599a&quot;},&quot;linkText&quot;:&quot;ver ViX&quot;,&quot;_id&quot;:&quot;00000187-df71-d6c1-a9df-fffff3740000&quot;,&quot;_type&quot;:&quot;809caec9-30e2-3666-8b71-b32ddbffc288&quot;}\">ver ViX</a>: entretenimiento sin límites con más de 100 canales, totalmente gratis y en español. Disfruta de cine, series, telenovelas, deportes y miles de horas de contenido en tu idioma.<br/><br/>",
+    "image": {
+      "type": "image",
+      "uid": "00000187-df7e-d6c6-adc7-ff7f12fd0000",
+      "title": "Untitled collage (48).jpg",
+      "caption": null,
+      "credit": "Mezcalent, Karina/Instagram",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/3d/72/9d1539264db4a0fbcfd3d4e9e667/untitled-collage-48.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "authors": [
+      {
+        "fullName": "Ashbya Meré",
+        "image": {
+          "type": "image",
+          "uid": "00000174-4c8d-d5f1-a1fd-5f9fe1710000",
+          "title": "BodyTune_1599012728817.png",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3f/50/602e0bb74b37a2b60ffc23be790d/bodytune-1599012728817.png",
+              "width": 1069,
+              "height": 1076
+            }
+          }
+        },
+        "uri": "https://www.univision.com/temas/ashbya-mere",
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "link": null,
+        "mediaCompany": null,
+        "designation": null,
+        "description": "Editora digital<br/>",
+        "address": null,
+        "phoneNumber": null,
+        "website": null
+      }
+    ],
+    "cardLabel": null,
+    "updateDate": "2023-05-03T08:03:13-04:00",
+    "publishDate": "2023-05-03T07:58:02-04:00",
+    "expirationDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/OZL5104FJyP",
+          "isFeedDialog": false,
+          "title": "Karina advierte que defenderá \"como leona\" a su hijo transgénero ante las críticas",
+          "description": "La cantante peruana se dijo contenta por la felicidad de su hijo Xander, quien a sus 17 años ya terminó el proceso de reasignación de sexo. Karina advirtió que lo defenderá a \"capa y espada\".Pero antes de que sigas, te invitamos a ver ViX: entretenimiento sin límites con más de 100 canales, totalmente gratis y en español. Disfruta de cine, series, telenovelas, deportes y miles de horas de contenido en tu idioma.",
+          "imageUrl": "https://st1.uvnimg.com/3d/72/9d1539264db4a0fbcfd3d4e9e667/untitled-collage-48.jpg",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/OZL5104FJyP",
+          "title": "Karina advierte que defenderá \"como leona\" a su hijo transgénero ante las críticas",
+          "via": "Univision"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/OZL5104FJyP",
+          "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nKarina advierte que defenderá \"como leona\" a su hijo transgénero ante las críticas\n\nEncuéntralo en este enlace:http://uni.vi/OZL5104FJyP\n\nVisítanos https://www.univision.com"
+        },
+        "mail": {
+          "subject": "Karina advierte que defenderá \"como leona\" a su hijo transgénero ante las críticas",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nKarina advierte que defenderá \"como leona\" a su hijo transgénero ante las críticas\n\nEncuéntralo en este enlace:http://uni.vi/OZL5104FJyP\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "00000166-4216-dd50-a166-e73f34130000",
+        "uri": "https://www.univision.com/famosos",
+        "name": "famosos",
+        "title": "Famosos"
+      }
+    ],
+    "featuredTags": [
+      {
+        "type": "person",
+        "uid": "00000181-ed34-d8df-a3eb-efbe31610000",
+        "uri": null,
+        "vertical": null,
+        "parent": null,
+        "title": "Karina",
+        "description": "Cantante venezolana",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2022-07-11T08:20:29-04:00",
+        "publishDate": "2022-07-11T08:20:29-04:00",
+        "expirationDate": null,
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": null,
+              "isFeedDialog": false,
+              "title": "Karina",
+              "description": "Cantante venezolana",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": null,
+              "title": "Karina",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": null,
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nKarina\n\nEncuéntralo en este enlace:null\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Karina",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nKarina\n\nEncuéntralo en este enlace:null\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false,
+        "socialNetworks": {
+          "facebookUrl": null,
+          "googleUrl": null,
+          "instagramUrl": null,
+          "linkedinUrl": null,
+          "pinterestUrl": null,
+          "snapchatUrl": null,
+          "twitterUrl": null,
+          "youTubeUrl": null
+        },
+        "role": null,
+        "fullBio": []
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014f-dc64-d9bd-a5cf-fff643db0000",
+        "uri": "https://www.univision.com/temas/transgenero",
+        "vertical": null,
+        "parent": null,
+        "title": "Transgénero",
+        "description": "Transgénero",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2015-12-11T16:55:27-05:00",
+        "publishDate": "2015-09-17T13:40:16-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/transgenero",
+              "isFeedDialog": false,
+              "title": "Transgénero",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/transgenero",
+              "title": "Transgénero",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/transgenero",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTransgénero\n\nEncuéntralo en este enlace:https://www.univision.com/temas/transgenero\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Transgénero",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nTransgénero\n\nEncuéntralo en este enlace:https://www.univision.com/temas/transgenero\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014c-b8b7-d983-a57d-feff71130000",
+        "uri": "https://www.univision.com/temas/hijos-de-famosos",
+        "vertical": null,
+        "parent": null,
+        "title": "Hijos de Famosos",
+        "description": "Hijos de Famosos",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2017-07-27T22:22:37-04:00",
+        "publishDate": "2015-04-14T12:16:48-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/hijos-de-famosos",
+              "isFeedDialog": false,
+              "title": "Hijos de Famosos",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/hijos-de-famosos",
+              "title": "Hijos de Famosos",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/hijos-de-famosos",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHijos de Famosos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/hijos-de-famosos\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Hijos de Famosos",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nHijos de Famosos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/hijos-de-famosos\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      }
+    ],
+    "disableReactions": false,
+    "contentPriority": "STANDARD",
+    "leadType": "video",
+    "showUpdateDate": true,
+    "readTime": 2,
+    "articleType": "Standard",
+    "body": [],
+    "jwRecommendationChannel": "78MDrZDv",
+    "dynamicPlaylist": false,
+    "sponsor": null,
+    "useWebviewInApps": false,
+    "relatedCollection": null,
+    "primaryTag": {
+      "name": "Famosos",
+      "link": "https://www.univision.com/famosos"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "type": "article",
+    "uid": "00000187-c3e3-d6c6-adc7-efe351940002",
+    "uri": "https://www.univision.com/noticias/dinero/se-viene-una-recesion-en-2023-federal-evalua-si-habra-recesion-leve",
+    "vertical": "Noticias",
+    "parent": {
+      "uuid": "0000014f-6cf3-dedf-abdf-6ef34d5e0001",
+      "uri": "https://www.univision.com/noticias/dinero",
+      "name": "dinero",
+      "title": "Dinero"
+    },
+    "title": "¿Recesión en 2023?",
+    "description": "La economía de Estados Unidos se expandió en los primeros tres meses de 2023. Sin embargo, algunos expertos creen que entrará en recesión entre abril y junio. ¿Cómo podremos saberlo con certeza? Estos son los indicadores que pueden ayudar a confirmarlo.",
+    "image": {
+      "type": "image",
+      "uid": "00000187-c3fa-d6c1-a9df-e3fe0bcb0000",
+      "title": "Explainer de recesión",
+      "caption": "Los carritos de compras vacios de Bed Bath & Beyond en Flowood, Mississippi, el lunes 24 de abril de 2023. La compañía, uno de los grandes minoristas originales, se declaró en bancarrota el domingo 23 de abril, luego de años de ventas pésimas. y enormes pérdidas.",
+      "credit": "Rogelio V. Solis/AP",
+      "renditions": {
+        "original": {
+          "href": "https://st1.uvnimg.com/a1/77/356bea964c0b9b2d29ad01fe5684/ap23116602765945.jpg",
+          "width": 1024,
+          "height": 683
+        }
+      }
+    },
+    "authors": [],
+    "cardLabel": null,
+    "updateDate": "2023-04-30T13:58:11-04:00",
+    "publishDate": "2023-04-30T13:58:11-04:00",
+    "expirationDate": null,
+    "sharing": {
+      "options": {
+        "facebook": {
+          "url": "http://uni.vi/tYaG104FsAX",
+          "isFeedDialog": false,
+          "title": "¿Se viene una recesión este 2023? Las señales que ayudarán a saberlo ",
+          "description": "La economía de Estados Unidos se expandió en los primeros tres meses de 2023. Sin embargo, algunos expertos creen que entrará en recesión entre abril y junio. ¿Cómo podremos saberlo con certeza? Estos son los indicadores que pueden ayudar a confirmarlo.",
+          "imageUrl": "https://st1.uvnimg.com/a1/77/356bea964c0b9b2d29ad01fe5684/ap23116602765945.jpg",
+          "appId": "1007833782615811"
+        },
+        "twitter": {
+          "url": "http://uni.vi/tYaG104FsAX",
+          "title": "¿Se viene una recesión este 2023? Las señales que ayudarán a saberlo ",
+          "via": "UniNoticias"
+        },
+        "whatsapp": {
+          "url": "http://uni.vi/tYaG104FsAX",
+          "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Se viene una recesión este 2023? Las señales que ayudarán a saberlo \n\nEncuéntralo en este enlace:http://uni.vi/tYaG104FsAX\n\nVisítanos https://www.univision.com"
+        },
+        "mail": {
+          "subject": "¿Se viene una recesión este 2023? Las señales que ayudarán a saberlo ",
+          "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\n¿Se viene una recesión este 2023? Las señales que ayudarán a saberlo \n\nEncuéntralo en este enlace:http://uni.vi/tYaG104FsAX\n\nVisítanos https://www.univision.com"
+        }
+      }
+    },
+    "hierarchy": [
+      {
+        "uuid": "0000014f-6f7f-d67e-adff-7f7f7fc30001",
+        "uri": "https://www.univision.com/noticias",
+        "name": "noticias univision",
+        "title": "Noticias Univision"
+      },
+      {
+        "uuid": "0000014f-6cf3-dedf-abdf-6ef34d5e0001",
+        "uri": "https://www.univision.com/noticias/dinero",
+        "name": "dinero",
+        "title": "Dinero"
+      }
+    ],
+    "featuredTags": [
+      {
+        "type": "tagnode",
+        "uid": "0000014b-a9eb-de67-a74f-b9fb7a8f0000",
+        "uri": "https://www.univision.com/temas/economia",
+        "vertical": null,
+        "parent": null,
+        "title": "Economía",
+        "description": "Economía",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2015-07-23T10:17:26-04:00",
+        "publishDate": "2015-02-22T21:04:09-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/economia",
+              "isFeedDialog": false,
+              "title": "Economía",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/economia",
+              "title": "Economía",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/economia",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEconomía\n\nEncuéntralo en este enlace:https://www.univision.com/temas/economia\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Economía",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEconomía\n\nEncuéntralo en este enlace:https://www.univision.com/temas/economia\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "00000152-c7b7-db83-abda-dfff79db0000",
+        "uri": "https://www.univision.com/temas/recesion",
+        "vertical": null,
+        "parent": null,
+        "title": "Recesión",
+        "description": "Recesión",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2016-02-09T15:27:43-05:00",
+        "publishDate": "2016-02-09T15:27:43-05:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/recesion",
+              "isFeedDialog": false,
+              "title": "Recesión",
+              "description": null,
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/recesion",
+              "title": "Recesión",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/recesion",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRecesión\n\nEncuéntralo en este enlace:https://www.univision.com/temas/recesion\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Recesión",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nRecesión\n\nEncuéntralo en este enlace:https://www.univision.com/temas/recesion\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      },
+      {
+        "type": "tagnode",
+        "uid": "0000014c-e99f-d74c-adde-ff9fb66d0000",
+        "uri": "https://www.univision.com/temas/eeuu",
+        "vertical": null,
+        "parent": null,
+        "title": "Estados Unidos",
+        "description": "Estados Unidos: Últimas noticias sobre Estados Unidos. Conoce la última información sobre Estados Unidos, videos, fotos y temas relacionados con Estados Unidos.",
+        "image": {
+          "type": "image",
+          "uid": "00000153-f1f1-d20a-a97b-fdf934a70000",
+          "title": "Univision Fallback Image",
+          "caption": null,
+          "credit": null,
+          "renditions": {
+            "original": {
+              "href": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        },
+        "authors": [],
+        "cardLabel": null,
+        "updateDate": "2021-02-23T15:14:25-05:00",
+        "publishDate": "2015-04-24T00:13:57-04:00",
+        "expirationDate": "3000-01-01T00:00:00-05:00",
+        "sharing": {
+          "options": {
+            "facebook": {
+              "url": "https://www.univision.com/temas/eeuu",
+              "isFeedDialog": false,
+              "title": "Estados Unidos",
+              "description": "Estados Unidos: Últimas noticias sobre Estados Unidos. Conoce la última información sobre Estados Unidos, videos, fotos y temas relacionados con Estados Unidos.",
+              "imageUrl": "https://st1.uvnimg.com/3a/60/ff8a1c114b0cb94b76cf39d1fdaa/newversion.jpg",
+              "appId": "1007833782615811"
+            },
+            "twitter": {
+              "url": "https://www.univision.com/temas/eeuu",
+              "title": "Estados Unidos",
+              "via": "Univision"
+            },
+            "whatsapp": {
+              "url": "https://www.univision.com/temas/eeuu",
+              "message": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstados Unidos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/eeuu\n\nVisítanos https://www.univision.com"
+            },
+            "mail": {
+              "subject": "Estados Unidos",
+              "body": "Un amigo te ha recomendado este contenido que puede ser de tu interés.\n\nEstados Unidos\n\nEncuéntralo en este enlace:https://www.univision.com/temas/eeuu\n\nVisítanos https://www.univision.com"
+            }
+          }
+        },
+        "hierarchy": [],
+        "featuredTags": [],
+        "disableReactions": false
+      }
+    ],
+    "disableReactions": true,
+    "contentPriority": "STANDARD",
+    "leadType": "video",
+    "showUpdateDate": true,
+    "readTime": 5,
+    "articleType": "Standard",
+    "body": [],
+    "jwRecommendationChannel": "eWP6Mwpy",
+    "dynamicPlaylist": false,
+    "sponsor": null,
+    "useWebviewInApps": false,
+    "relatedCollection": null,
+    "primaryTag": {
+      "name": "Dinero",
+      "link": "https://www.univision.com/noticias/dinero"
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  },
+  {
+    "uid": "00000184-ee12-ded3-adee-fe930c5f0001",
+    "type": "externallink",
+    "link": {
+      "href": "https://shop.univision.com/?utm_source=Univision&utm_medium=leftwidget&utm_campaign=Home",
+      "target": "_blank",
+      "text": "🛍️ Shop Univision",
+      "uid": "00000184-ee12-ded3-adee-fe930c5f0001"
+    },
+    "uri": "https://shop.univision.com/?utm_source=Univision&utm_medium=leftwidget&utm_campaign=Home",
+    "title": "🛍️ Shop Univision",
+    "description": "Shop Univision CTA",
+    "image": {
+      "type": null,
+      "uid": null,
+      "title": null,
+      "caption": null,
+      "credit": null,
+      "renditions": null
+    },
+    "feedConsumer": "UNIVISION",
+    "schedule": null
+  }
+]
